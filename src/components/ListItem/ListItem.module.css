@@ -1,0 +1,20 @@
+.background {
+  color: white;
+  font-weight: 700;
+}
+.name {
+  font-size: 20px;
+  margin-right: 20px;
+  color: rgb(245, 170, 222);
+  border-bottom: 3px double white;
+}
+.email {
+  font-size: 20px;
+  margin-right: 20px;
+  color: rgb(245, 170, 222);
+  border-bottom: 3px double white;
+}
+input {
+  color: aqua;
+  background-color: black;
+}

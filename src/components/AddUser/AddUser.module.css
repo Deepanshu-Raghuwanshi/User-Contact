@@ -1,0 +1,30 @@
+.main {
+  text-align: center;
+  display: inline-block;
+  height: fit-content;
+  width: fit-content;
+  color: rgb(240, 240, 241);
+  font-size: 20px;
+  font-weight: 999;
+  padding: 10px;
+  margin-top: 75px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://st3.depositphotos.com/1005738/19311/i/450/depositphotos_193117418-stock-photo-email-computer-button-for-business.jpg");
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.background {
+  background-position: center;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("https://st2.depositphotos.com/1265075/7365/i/450/depositphotos_73656201-stock-photo-web-contact-us-icons-cubes.jpg");
+}
+.heading {
+  color: aquamarine;
+  padding-top: 55px;
+}
